@@ -1,0 +1,24 @@
+body{
+    background: url(13947223-design-de-logotipo-de-saude-e-bem-estar-medico-com-modelo-de-conceito-de-de-simbolo-de-vida-humana-vetor.jpg);
+    background-size:cover ;
+    background-image: linear-gradient(to right,  green, blue);
+    
+}
+
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 700px
+    
+}
+summary{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-right: 700px
+    
+}
+img{
+    height: 250px;
+    width: 550px;
+}
